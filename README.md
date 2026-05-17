@@ -1,6 +1,6 @@
-# ATOMQUEST – Goal Setting & Tracking Portal
+# In-House Goal Setting & Tracking Portal
 
-ATOMQUEST is a decentralized Goal Setting & Tracking Portal built entirely on the Internet Computer Protocol (ICP).
+This is a decentralized Goal Setting & Tracking Portal built entirely on the Internet Computer Protocol (ICP).
 
 The platform enables Employees, Managers, and Admins to manage organizational goals, approvals, quarterly check-ins, analytics, and audit trails through role-based dashboards.
 
