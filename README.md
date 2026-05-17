@@ -80,8 +80,3 @@ See `architecture-diagram.png` in this repository.
 
 ---
 
-
-
-## Team
-
-[Your team name / members]
