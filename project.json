@@ -1,0 +1,27 @@
+{
+  "overview": "A full-stack Goal Setting & Tracking Portal for ATOMQUEST HACKATHON 1.0. Supports the complete goal lifecycle — from employee goal creation and manager approval, through quarterly check-ins and achievement tracking, to admin reporting and audit trails. Three role-based dashboards for Employee, Manager, and Admin/HR with instant demo role-switching for evaluators.",
+  "features": [
+    "Employee goal sheet with Thrust Area, UoM, targets, and weightage validation (100% total, 10% min, 8 max)",
+    "Manager approval workflow with inline editing and goal locking on approval",
+    "Shared Goals pushed by Admin/Manager synced across linked employee sheets",
+    "Quarterly check-in interface with Planned vs Actual tracking",
+    "Progress score formulas for Min, Max, Timeline, and Zero UoM types",
+    "Manager check-in comments and structured feedback logs",
+    "Admin achievement report with CSV export",
+    "Real-time completion dashboard",
+    "Field-level audit trail for all post-lock changes",
+    "Analytics: QoQ trends, goal distribution, manager effectiveness",
+    "Instant demo role-switcher on landing page with pre-seeded demo users"
+  ],
+  "category": "productivity",
+  "tags": [
+    "goal-setting",
+    "performance-management",
+    "hr-portal",
+    "hackathon",
+    "quarterly-review",
+    "okr",
+    "employee-tracking"
+  ],
+  "last_updated": "2026-05-17T06:59:40.454Z"
+}
